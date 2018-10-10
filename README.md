@@ -1,4 +1,4 @@
-# Twitcasting-V2-wrapper for HSP  
+# Simple_encryptor: The simplest encryption module for HSP  
 This module enables the simplest buffer encryption / decryption.  
   
 # Requirements  
