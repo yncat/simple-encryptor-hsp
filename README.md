@@ -1,2 +1,15 @@
-# simple-encryptor-hsp
-Simple encryptor module for HSP
+# Twitcasting-V2-wrapper for HSP  
+This module enables the simplest buffer encryption / decryption.  
+  
+# Requirements  
+none  
+  
+# Usage  
+Please refer to the module itself  
+  
+# License  
+MIT license  
+  
+# TODO
+none
+
